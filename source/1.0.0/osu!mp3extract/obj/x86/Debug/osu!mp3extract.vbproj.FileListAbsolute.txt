@@ -1,0 +1,28 @@
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\bin\Debug\osu!mp3extract.exe
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\bin\Debug\osu!mp3extract.pdb
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\bin\Debug\osu!mp3extract.xml
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\obj\x86\Debug\osu_mp3extract.Form1.resources
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\obj\x86\Debug\osu_mp3extract.Resources.resources
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\obj\x86\Debug\osu!mp3extract.exe
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\obj\x86\Debug\osu!mp3extract.xml
+C:\Users\sebastian.aviles.PACKARDBELL\AppData\Local\Temporary Projects\osu!mp3extract\obj\x86\Debug\osu!mp3extract.pdb
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\osu!mp3extract.exe
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\osu!mp3extract.xml
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\osu!mp3extract.pdb
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\bin\Debug\osu!mp3extract.exe
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\bin\Debug\osu!mp3extract.pdb
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\bin\Debug\osu!mp3extract.xml
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\osu_mp3extract.Form1.resources
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\osu_mp3extract.Resources.resources
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\bin\Debug\osu!mp3extract.exe.config
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\bin\Debug\osu!mp3extract.exe.manifest
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\bin\Debug\osu!mp3extract.application
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\osu!mp3extract.TrustInfo.xml
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\osu!mp3extract.exe.manifest
+C:\Users\sebastian.aviles.PACKARDBELL\documents\visual studio 2010\Projects\osu!mp3extract\osu!mp3extract\obj\x86\Debug\osu!mp3extract.application

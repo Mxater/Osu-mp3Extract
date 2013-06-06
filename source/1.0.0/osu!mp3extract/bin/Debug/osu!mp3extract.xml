@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+osu!mp3extract
+</name>
+</assembly>
+<members>
+<member name="P:osu_mp3extract.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:osu_mp3extract.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:osu_mp3extract.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
